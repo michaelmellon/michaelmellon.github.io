@@ -1,0 +1,153 @@
+{
+  "main": {
+    "_TODO": "Add description later for hiring purposes...",
+    "name": "Michael Mellon",
+    "occupation": "Web & Software Developer | Cybersecurity Enthusiast",
+    "description": " ",
+    "image": "profilepic.jpg",
+    "bio": "After being in the creative industry for 8 years I decided it was time to challenge the other side of my brain. I went back to school for an associate degree in web and software development and secured a dual role position at Kohl's 1 year through my degree. Since then I've developed and deployed 6 internal facing applications. ",
+    "contactmessage": "I'd love to work with you. Drop me a message:",
+    "email": "michaeljmellon@proton.me",
+    "phone": "224-723-0149",
+    "address": {
+      "street": "",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53213"
+    },
+    "website": "http://www.michaelmellon.dev",
+    "resumedownload": "http://michaelmellon.dev/Mellon_Resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/michaelmellon",
+        "className": "fa fa-github"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michaeljamesmellon",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Minnesota",
+        "degree": "Cybersecurity Bootcamp",
+        "graduated": "March 2023",
+        "description": "This 6-month bootcamp offered a comprehensive foundation in practical Cybersecurity concepts and principles with a strong emphasis on the tools and technologies currently employed by industry professionals."
+      },
+      {
+        "school": "Milwaukee Area Technical College",
+        "degree": "Web and Software Development",
+        "graduated": "May 2019",
+        "description": "This program provided a wide range of material including multiple programming languages (both front and back-end), web development frameworks, software engineering principles, and database management."
+      },
+      {
+        "school": "Milwaukee Area Technical College",
+        "degree": "Applied Science of Photography",
+        "graduated": "May 2010",
+        "description": "I was provided a hands-on experience with industry-standard equipment and software where I explored various photography genres, and developed critical thinking and visual communication abilities."
+      }
+    ],
+    "work": [
+      {
+        "company": "Kohl's Advertising Photo Studio",
+        "title": "Digital Technician / Studio Software Developer",
+        "years": "October 2018 - Present",
+        "description": "Digital Tech \n • Adding relevant metadata to images including keywords, descriptions, and copyright information, to ensure efficient search and retrieval. \n• Experienced in implementing consistent file naming conventions to maintain a structured and easily navigable image library Knowledgeable in batch editing techniques, enabling efficient application of adjustments, metadata, and keywords to multiple images simultaneously. \n• Familiar with embedding metadata directly into image files, ensuring that important information travels with the image when shared or published."
+      },
+      {
+        "company": "Bon-Ton",
+        "title": "Senior Digital Technician",
+        "years": "October 2013 - August 2018",
+        "description": "Lead digital tech. In charge of photo equipment, studio ligting diagrams and setup, and onboarding of freelance techs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "Google App Script"
+      },
+      {
+        "name": "JS"
+      },
+      {
+        "name": "SQL"
+      },
+
+      {
+        "name": "Python"
+      },
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "C#"
+      },
+      {
+        "name": "Java"
+      },
+
+      {
+        "name": "MongoDB"
+      },
+
+      {
+        "name": "Graphql"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chow Spot",
+        "category": "React JS",
+        "image": "chow-spot.png",
+        "url": "https://michaelmellon.dev/chow-spot",
+        "description": "Utilizing the Foursquare API to load restaurant data to the UI."
+      },
+      {
+        "title": "Click 4 Color",
+        "category": "JS",
+        "image": "clickcolor.png",
+        "url": "https://michaelmellon.dev/clickcolor",
+        "description": "A random color generator in Javascript."
+      },
+
+      {
+        "title": "Dope Beats",
+        "category": "JS",
+        "image": "beats.png",
+        "url": "https://michaelmellon.dev/beats",
+        "description": "A Javascript beat maker."
+      },
+      {
+        "title": "Vendor Supplied App",
+        "category": "Xojo",
+        "image": "vendor.png",
+        "url": "https://docs.google.com/presentation/d/1l-3Fj2zPQO4ChzjskKitadB4gCACfy5u826YX1WUyvA/edit?usp=sharing",
+        "description": "Utilizing Xojo to create an app to record photo metadata."
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tremendous help in setting up new application for project X.",
+        "user": "Myself"
+      },
+      {
+        "text": "Great self-starter. Always punctual and willing to go the extra mile.",
+        "user": "Myself...again"
+      }
+    ]
+  }
+}
